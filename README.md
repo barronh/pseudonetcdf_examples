@@ -9,7 +9,9 @@ Current Examples:
   * `cmaq2cf` - Climate Forecasting NetCDF files.
   * `cmaq2wrf` - WRF meta data NetCDF files.
 * `cmaq_ozone_evaluation` - Evaluate CMAQ against ozone from AQS.
-* `csv2camxemis` - Convert CSV files to CAMx v6 emissions.
+* Process Emissions Files
+  * `csv2camxemis` - Convert CSV files to CAMx v6 emissions.
+  * `cmaq_emis_profile` - add vertical allocation to CMAQ emissions.
 * `prepcolab` - Prepares Google Colaboratory to use PseudoNetCDF.
 * `example` - An example of how to make an example.
 

@@ -1,5 +1,5 @@
-example
--------
+Vertically Allocate Emissions with PseudoNetCDF
+-----------------------------------------------
 
 author: Barron H. Henderson
 date: 2020-08-20

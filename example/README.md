@@ -1,18 +1,18 @@
 example
--------
+=======
 
 author: Barron H. Henderson
 date: 2020-08-06
 
 
 Overview
-========
+--------
 
 This example is meant to be copied as a starting point for other examples.
 
 
 How to add an example to the repository
-=======================================
+---------------------------------------
 
 1. Fork the repository on Github.
 2. Add a folder with a working example
@@ -23,7 +23,7 @@ How to add an example to the repository
 
 
 Notes
-=====
+-----
 
 * Examples should be small, but working.
 * Examples should include a short README.md

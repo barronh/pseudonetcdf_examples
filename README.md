@@ -1,5 +1,5 @@
 pseudonetcdf examples
----------------------
+=====================
 
 A repository of pseudonetcdf examples.
 
@@ -9,6 +9,7 @@ Current Examples:
   * `cmaq2cf` - Climate Forecasting NetCDF files.
   * `cmaq2wrf` - WRF meta data NetCDF files.
 * `cmaq_ozone_evaluation` - Evaluate CMAQ against ozone from AQS.
+* `cmaq_mask_maker` - Make masks (fractional grid-cell) based on shapefiles
 * Process Emissions Files
   * `csv2camxemis` - Convert CSV files to CAMx v6 emissions.
   * `cmaq_emis_profile` - add vertical allocation to CMAQ emissions.

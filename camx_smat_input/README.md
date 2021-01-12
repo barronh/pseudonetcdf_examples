@@ -1,12 +1,12 @@
 camx_smat_input
----------------
+===============
 
 author: Barron H. Henderson
 date: 2020-08-24
 
 
 Overview
-========
+--------
 
 This example shows how make SMAT inputs from CAMx output (avrg) files. The
 inputs are hourly gridded. They are converted to maximum daily 8-hour averages

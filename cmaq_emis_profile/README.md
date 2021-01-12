@@ -1,12 +1,12 @@
 Vertically Allocate Emissions with PseudoNetCDF
------------------------------------------------
+===============================================
 
 author: Barron H. Henderson
 date: 2020-08-20
 
 
 Overview
-========
+--------
 
 This example shows how to vertically allocate 2-d emissions using a known
 layer fraction. It uses a publicly available emission file and an arbitrary
@@ -15,7 +15,7 @@ literature[1-3], but would need to be converted to CMAQ layer structure.
 
 
 References
-==========
+----------
 
 [1] Bieser, J., Aulinger, A., Matthias, V., Quante, M., Denier van der Gon, H.A.C., 2011. Vertical emission profiles for Europe based on plume rise calculations. Environmental Pollution 159, 2935-2946. https://doi.org/10.1016/j.envpol.2011.04.030
 

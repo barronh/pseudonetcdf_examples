@@ -16,7 +16,15 @@ Current Examples:
 * `prepcolab` - Prepares Google Colaboratory to use PseudoNetCDF.
 * `example` - An example of how to make an example.
 
-Please add your own examples!
+Live Testing
+------------
 
+To open any of these live, you have options: 
+
+* [open this repo in colab](https://colab.research.google.com/github/barronh/pseudonetcdf_examples) and select the notebook you want to run.
+* [open this repo in binder](https://mybinder.org/v2/gh/barronh/pseudonetcdf_examples/HEAD)
+
+Please add your own examples!
+-----------------------------
 * See `example` for instructions and as a template.
 

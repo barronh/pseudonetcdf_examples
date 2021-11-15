@@ -10,6 +10,7 @@ Overview
 
 This example is meant to be copied as a starting point for other examples.
 
+[Open Live In Colab](https://colab.research.google.com/github/barronh/pseudonetcdf_examples/blob/main/example/example.ipynb)
 
 How to add an example to the repository
 ---------------------------------------

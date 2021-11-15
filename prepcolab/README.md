@@ -11,6 +11,7 @@ Overview
 This example shows how to make a Google Colaboratory environment ready for use
 with PseudoNetCDF.
 
+[Open Live In Colab](https://colab.research.google.com/github/barronh/pseudonetcdf_examples/blob/main/prepcolab/prepcolab.ipynb)
 
 How to add an example to the repository
 ---------------------------------------

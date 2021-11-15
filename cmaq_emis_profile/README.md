@@ -13,6 +13,7 @@ layer fraction. It uses a publicly available emission file and an arbitrary
 profile (44 layers like H-CMAQ). Better profiles can be found in the
 literature[1-3], but would need to be converted to CMAQ layer structure.
 
+[Open Live In Colab](https://colab.research.google.com/github/barronh/pseudonetcdf_examples/blob/main/cmaq_emis_profile/cmaq_emis_profile.ipynb)
 
 References
 ----------
